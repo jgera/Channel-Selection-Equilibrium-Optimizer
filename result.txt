@@ -1,0 +1,110 @@
+# ----------  01-Feb-2021 15:44:32 ---------- 
+Subject: a
+Method: Corr
+AF4	F3	Fz	FC1	FCz	FC2	CFC7	CFC5	CFC6	T7	C3	Cz	CCP5	CCP1	CCP4	CCP6	CCP8	CP1	CPz	CP4	P3	P1	P2	P6	O1	
+Total Channels: 25
+# ----------  01-Feb-2021 16:10:35 ---------- 
+Subject: b
+Method: Corr
+F2	F4	FC3	FC2	FC6	T8	CCP7	CCP1	CCP2	CP5	CP3	CP1	CP4	P5	P1	Pz	P4	
+Total Channels: 17
+# ----------  01-Feb-2021 16:12:45 ---------- 
+Subject: f
+Method: Corr
+F1	Fz	F4	FC5	FC2	FC4	FC6	CFC7	CFC6	C6	CCP5	P2	P4	O1	
+Total Channels: 14
+# ----------  01-Feb-2021 16:14:47 ---------- 
+Subject: g
+Method: Corr
+AF3	F5	F3	F1	FC5	FC3	FCz	CFC5	CFC1	C5	C3	Cz	CP5	CP3	CP1	P5	P1	O1	
+Total Channels: 18
+# ----------  01-Feb-2021 16:17:19 ---------- 
+Subject: a
+Method: Fisher
+AF4	F3	Fz	FC1	FCz	FC2	CFC7	CFC5	CFC6	T7	C3	Cz	CCP5	CCP1	CCP4	CCP6	CCP8	CP1	CPz	CP4	P3	P1	P2	P6	O1	
+Total Channels: 25
+# ----------  01-Feb-2021 16:18:43 ---------- 
+Subject: b
+Method: Fisher
+F2	F4	FC3	FC2	FC6	T8	CCP7	CCP1	CCP2	CP5	CP3	CP1	CP4	P5	P1	Pz	P4	
+Total Channels: 17
+# ----------  01-Feb-2021 16:23:59 ---------- 
+Subject: f
+Method: Fisher
+F1	Fz	F4	FC5	FC2	FC4	FC6	CFC7	CFC6	C6	CCP5	P2	P4	O1	
+Total Channels: 14
+# ----------  01-Feb-2021 16:25:30 ---------- 
+Subject: g
+Method: Fisher
+AF3	F5	F3	F1	FC5	FC3	FCz	CFC5	CFC1	C5	C3	Cz	CP5	CP3	CP1	P5	P1	O1	
+Total Channels: 18
+# ----------  01-Feb-2021 16:27:45 ---------- 
+Subject: a
+Method: Combined
+F3	F2	F4	FC3	FC2	FC6	CFC2	CFC4	CFC6	CFC8	T7	C4	C6	T8	CCP5	CCP3	CCP1	CCP6	CCP8	CP5	CP4	CP6	P5	P4	PO2	
+Total Channels: 25
+# ----------  01-Feb-2021 16:28:36 ---------- 
+Subject: b
+Method: Combined
+AF3	F1	F2	F4	FC1	FCz	FC2	FC4	CFC2	Cz	CCP7	CCP2	CCP6	CP1	P5	P1	PO1	PO2	O2	
+Total Channels: 19
+# ----------  01-Feb-2021 16:32:55 ---------- 
+Subject: f
+Method: Combined
+F3	F4	F6	FC3	FC1	FC4	CFC5	CFC3	CFC4	CFC6	CFC8	T7	C5	C3	Cz	C6	T8	CCP5	CCP1	CCP6	CP1	CP4	CP6	P5	P4	P6	PO1	O1	
+Total Channels: 28
+# ----------  01-Feb-2021 16:55:55 ---------- 
+Subject: g
+Method: Combined
+FC1	FCz	C5	Cz	C4	T8	CCP3	CCP6	CCP8	CP5	CP6	P5	P3	P1	Pz	P4	PO2	O1	O2	
+Total Channels: 19
+# ----------  03-Feb-2021 12:17:14 ---------- 
+Subject: a
+Method: Combined
+F3	F2	F4	FC3	FC2	FC6	CFC2	CFC4	CFC6	CFC8	T7	C4	C6	T8	CCP5	CCP3	CCP1	CCP6	CCP8	CP5	CP4	CP6	P5	P4	PO2	
+Total Channels: 25
+# ----------  03-Feb-2021 12:23:27 ---------- 
+Subject: a
+Method: Corr
+FC3	FC1	FC6	CFC6	CFC8	C4	C6	CCP6	CCP8	CP5	CP1	CP6	P5	P3	P1	Pz	P6	PO1	PO2	O1	O2	
+Total Channels: 21
+# ----------  03-Feb-2021 12:25:50 ---------- 
+Subject: a
+Method: Fisher
+AF4	F3	Fz	FC1	FCz	FC2	CFC7	CFC5	CFC6	T7	C3	Cz	CCP5	CCP1	CCP4	CCP6	CCP8	CP1	CPz	CP4	P3	P1	P2	P6	O1	
+Total Channels: 25
+# ----------  03-Feb-2021 14:03:26 ---------- 
+Subject: a
+Method: Fisher
+AF4	F3	Fz	F2	F4	FC1	FCz	FC2	CFC7	CFC5	CFC6	T7	C3	Cz	CCP2	CCP4	CCP8	CP1	CPz	CP4	P3	P1	P2	P6	O1	O2	
+Total Channels: 26
+# ----------  03-Feb-2021 15:12:56 ---------- 
+Subject: a
+Method: Fisher
+AF4	F3	Fz	F2	F4	FC1	FCz	FC2	CFC7	CFC5	CFC6	T7	C3	Cz	CCP2	CCP4	CCP8	CP1	CPz	CP4	P3	P1	P2	P6	O1	O2	
+Total Channels: 26
+# ----------  03-Feb-2021 16:09:13 ---------- 
+Subject: a
+Method: Fisher
+AF4	F3	Fz	F2	F4	FC1	FCz	FC2	CFC7	CFC5	CFC6	T7	C3	Cz	CCP2	CCP4	CCP8	CP1	CPz	CP4	P3	P1	P2	P6	O1	O2	
+Total Channels: 26
+# ----------  03-Feb-2021 16:12:48 ---------- 
+Subject: a
+Method: Fisher
+AF4	F3	Fz	F2	F4	FC1	FCz	FC2	CFC7	CFC5	CFC6	T7	C3	Cz	CCP2	CCP4	CCP8	CP1	CPz	CP4	P3	P1	P2	P6	O1	O2	
+Total Channels: 26
+# ----------  03-Feb-2021 16:19:29 ---------- 
+Subject: a
+Method: Fisher
+AF4	F3	Fz	F2	F4	FC1	FCz	FC2	CFC7	CFC5	CFC6	T7	C3	Cz	CCP2	CCP4	CCP8	CP1	CPz	CP4	P3	P1	P2	P6	O1	O2	
+Total Channels: 26
+# ----------  03-Feb-2021 18:58:21 ---------- 
+Subject: a
+Method: Fisher
+AF4	F3	Fz	F2	F4	FC3	FC1	FCz	FC2	FC4	FC6	CFC7	CFC5	CFC3	CFC2	CFC6	T7	C5	C3	Cz	C6	CCP2	CCP4	CCP8	CP1	CPz	CP2	CP4	P3	P1	P2	P6	O1	O2	
+Total Channels: 34
+# ----------  03-Feb-2021 18:58:49 ---------- 
+Subject: b
+Method: Fisher
+AF4	F5	F1	Fz	F2	F4	FC3	FC2	FC6	CFC5	CFC3	CFC4	CFC8	T7	C1	Cz	C2	C6	T8	CCP2	CCP4	CCP6	CCP8	CP5	CP3	CP1	CPz	CP4	CP6	P5	P1	Pz	PO1	PO2	O2	
+Total Channels: 35
